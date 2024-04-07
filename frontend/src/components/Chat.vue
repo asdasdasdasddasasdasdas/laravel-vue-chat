@@ -93,7 +93,7 @@ function send() {
 <style scoped>
 .chats__item {
   color: white;
-  height: 40px;
+  height: 41px;
   display: flex;
   padding: 10px;
   align-items: center;
